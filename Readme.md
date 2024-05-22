@@ -10,3 +10,5 @@ There will be markdown files of related canvases where I linearly screencap and 
 
 [sokol_app.h](sokol_app.md)
 
+[sokol-gfx-tour blog post](https://floooh.github.io/2017/07/29/sokol-gfx-tour.html)
+
